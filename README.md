@@ -5,14 +5,31 @@
 - 👔 Experiential Learning Student Assistant (@MSU Denver)
 
  ## Projects
-- RoadRunner Resource Hub
-- 
+- [RoadRunner Resource Hub](http://roadrunner-resource-hub.com/) - [Code](https://github.com/BraedonB98/CS4610-RoadRunnerResourceHub)
+- [Monument Dental](https://www.monumentdental.com/) - [Code](https://github.com/BraedonB98/MonumentDental)
+- 2Do Track - [Code](https://github.com/BraedonB98/2DoTrack)
+- Speed Info Manager - [Frontend](https://github.com/BraedonB98/SpeedInfoManager-F) , [Backend] (https://github.com/BraedonB98/SpeedInfoManager-B)
 
-## Skills
+
+## Technical Skills
+#### Web Development
+[![Web Development](https://skillicons.dev/icons?i=react,css,express,mongodb,nodejs,htmx,firebase,heroku)](https://skillicons.dev)
+
+#### App Development
+[![App Development](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
+
+#### Additional Languages
+[![Additional Languages](https://skillicons.dev/icons?i=cpp,py,arduino)](https://skillicons.dev)
+
+#### Version Control/Workflow
+[![Version Control/Workflow](https://skillicons.dev/icons?i=git,github,postman,npm,md)](https://skillicons.dev)
+
+
 
 ## Experience
+
 <div style="border: 1px solid #ccc; padding: 16px; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
-  <h3 style="color: blue;">Experiential Learning Student Assistant</h2>
+  <h3 style="color: blue;">Experiential Learning Student Assistant</h3>
   <h4>MSU Denver</h3>
   <p><strong>Duration:</strong> May 2024 - Present</p>
   <p><strong>Responsibilities:</strong></p>
@@ -40,7 +57,7 @@
 <br/>
 
 <div style="border: 1px solid #ccc; padding: 16px; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
-  <h3 style="color: blue;">Instruments and Controls Intern</h2>
+  <h3 style="color: blue;">Instruments and Controls Intern</h3>
   <h4>ZAP Engineering and Construction Services</h3>
   <p><strong>Duration:</strong> Jun. 2017 - Aug 2017 </p>
   <p><strong>Responsibilities:</strong></p>
@@ -50,6 +67,8 @@
     <li> collaborated with the Electrical Engineering division, gaining exposure to various aspects of the engineering process.</li>
   </ul>
 </div> 
+
+<br/>
 
 ## About Me
 I am currently pursuing a Bachelor’s degree in Computer Science at Metropolitan State University of Denver, with an anticipated graduation date of Spring 2025. My academic journey is complemented by practical experience and a strong project management and web development background.
