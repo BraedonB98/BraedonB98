@@ -12,7 +12,7 @@
 
 ## Experience
 <div style="border: 1px solid #ccc; padding: 16px; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
-  <h3>Experiential Learning Student Assistant</h2>
+  <h3 style="color: blue;">Experiential Learning Student Assistant</h2>
   <h4>MSU Denver</h3>
   <p><strong>Duration:</strong> May 2024 - Present</p>
   <p><strong>Responsibilities:</strong></p>
@@ -23,17 +23,31 @@
   </ul>
 </div> 
 
-
+<br/>
 
 <div style="border: 1px solid #ccc; padding: 16px; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
-  <h3>Project Manager</h2>
+  <h3 style="color: blue;">Project Manager</h2>
   <h4>Colorado Space Grant Consortium (CBASE & Ground Station)</h3>
   <p><strong>Duration:</strong> Sep. 2018 - Sep. 2020 </p>
   <p><strong>Responsibilities:</strong></p>
   <ul>
     <li> Managed a team of over 30 individuals, with three team leads assisting in coordinating efforts.</li>
-    <li>Ensured the successful execution of balloon missions by providing guidance and support to the team. Oversaw the launch, tracking (using Ham Radios), and recovery of high-altitude balloons carrying student research projects..</li>
+    <li>Ensured the successful execution of balloon missions by providing guidance and support to the team. Oversaw the launch, tracking (using Ham Radios), and recovery of high-altitude balloons carrying student research projects.</li>
     <li>Collaborated with a multidisciplinary team to enhance the ground station's capabilities and ensure seamless satellite communication. While effectively communicating/translating the needs of the team to my supervisor to obtain funding.</li>
+  </ul>
+</div> 
+
+<br/>
+
+<div style="border: 1px solid #ccc; padding: 16px; border-radius: 8px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
+  <h3 style="color: blue;">Instruments and Controls Intern</h2>
+  <h4>ZAP Engineering and Construction Services</h3>
+  <p><strong>Duration:</strong> Jun. 2017 - Aug 2017 </p>
+  <p><strong>Responsibilities:</strong></p>
+  <ul>
+    <li> Conducted thorough checks of technical documents, ensuring all specifications and requirements were met.</li>
+    <li> Supported engineers and designers by verifying Bills of Materials (BOM), specification sheets, and requirements to ensure accuracy before sending them to procurement.</li>
+    <li> collaborated with the Electrical Engineering division, gaining exposure to various aspects of the engineering process.</li>
   </ul>
 </div> 
 
