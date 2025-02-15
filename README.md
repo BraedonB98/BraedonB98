@@ -8,7 +8,7 @@
 - [RoadRunner Resource Hub](http://roadrunner-resource-hub.com/) - [Code](https://github.com/BraedonB98/CS4610-RoadRunnerResourceHub)
 - [Monument Dental](https://www.monumentdental.com/) - [Code](https://github.com/BraedonB98/MonumentDental)
 - 2Do Track - [Code](https://github.com/BraedonB98/2DoTrack)
-- Speed Info Manager - [Frontend](https://github.com/BraedonB98/SpeedInfoManager-F) , [Backend] (https://github.com/BraedonB98/SpeedInfoManager-B)
+- Speed Info Manager - [Frontend](https://github.com/BraedonB98/SpeedInfoManager-F) , [Backend](https://github.com/BraedonB98/SpeedInfoManager-B)
 
 
 ## Technical Skills
