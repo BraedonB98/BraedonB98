@@ -13,16 +13,16 @@
 
 ## Technical Skills
 #### Web Development
-[![Web Development](https://skillicons.dev/icons?i=react,css,express,mongodb,nodejs,htmx,firebase,heroku)](https://skillicons.dev)
+[![Web Development](https://skillicons.dev/icons?i=react,css,express,mongodb,nodejs,htmx,firebase,heroku)]()
 
 #### App Development
-[![App Development](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://skillicons.dev)
+[![App Development](https://skillicons.dev/icons?i=androidstudio,kotlin)]()
 
 #### Additional Languages
-[![Additional Languages](https://skillicons.dev/icons?i=cpp,py,arduino)](https://skillicons.dev)
+[![Additional Languages](https://skillicons.dev/icons?i=cpp,py,arduino)]()
 
 #### Version Control/Workflow
-[![Version Control/Workflow](https://skillicons.dev/icons?i=git,github,postman,npm,md)](https://skillicons.dev)
+[![Version Control/Workflow](https://skillicons.dev/icons?i=git,github,postman,npm,md)]()
 
 
 
